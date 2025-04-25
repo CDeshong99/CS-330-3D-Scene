@@ -1,0 +1,12 @@
+﻿  SceneManager.cpp
+C:\Users\Cam.DESKTOP-H82R35G\Downloads\CS330Content (1)\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(223,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Cam.DESKTOP-H82R35G\Downloads\CS330Content (1)\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(416,27): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Cam.DESKTOP-H82R35G\Downloads\CS330Content (1)\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(598,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Cam.DESKTOP-H82R35G\Downloads\CS330Content (1)\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(598,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Cam.DESKTOP-H82R35G\Downloads\CS330Content (1)\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(598,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Cam.DESKTOP-H82R35G\Downloads\CS330Content (1)\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(598,17): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Cam.DESKTOP-H82R35G\Downloads\CS330Content (1)\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(612,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Cam.DESKTOP-H82R35G\Downloads\CS330Content (1)\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(612,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Cam.DESKTOP-H82R35G\Downloads\CS330Content (1)\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(612,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Cam.DESKTOP-H82R35G\Downloads\CS330Content (1)\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(612,17): warning C4305: 'argument': truncation from 'double' to 'float'
+  7-1_FinalProjectMilestones.vcxproj -> C:\Users\Cam.DESKTOP-H82R35G\Downloads\CS330Content (1)\CS330Content\Projects\7-1_FinalProjectMilestones\Debug\7-1_FinalProjectMilestones.exe
